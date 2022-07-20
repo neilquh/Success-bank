@@ -1,12 +1,4 @@
-# izbank
-
-Hi 
-I , Mete and Halil worked together to develop a mobile bank application
-While doing this application, tasks were shared with each team member.
-In order to be completely independent in this project, I learned the use of Git and Github with my teammates.
-In addition, we supported each other when necessary and repaired the problems.
-this added us time and efficiency while developing the app.
-
+Success bank
 ## This app features:
 * Send money to another account
 * Send money between own accounts
@@ -20,6 +12,7 @@ this added us time and efficiency while developing the app.
 * Adding and paying the invoice
 * Change user account settings
 * Admin panel
+*log in via facebook
 
 ## Used technologies:
 * Parse database
@@ -29,4 +22,4 @@ this added us time and efficiency while developing the app.
 * Java
 * State Design Pattern
 
-Youtube tutorial Link:https://youtu.be/P1VvbYsa2lQ
+
